@@ -46,17 +46,6 @@ auto_insurance_fraud_detection/
 │       ├── feature_columns.json
 │       └── ... (other model files)
 │
-├── 📁 notebooks/                      # Jupyter notebooks for exploration
-│   ├── 01_data_exploration.ipynb
-│   ├── 02_feature_engineering.ipynb
-│   └── 03_model_development.ipynb
-│
-├── 📁 outputs/
-│   ├── results/                       # Prediction results and submissions
-│   │   └── Auto_Insurance_Fraud_Claims_Results_Submission.csv
-│   ├── model_evaluation_metrics.json  # Model performance metrics
-│   ├── model_evaluation_summary.csv
-│   └── model_comparison_report.txt
 │
 ├── 📁 src/                            # Source code modules
 │   ├── __init__.py
@@ -68,15 +57,6 @@ auto_insurance_fraud_detection/
 │
 ├── 📁 streamlit_app/                  # Interactive dashboard
 │   ├── app.py                         # Main Streamlit application
-│   └── utils/                         # Dashboard utilities
-│       ├── data_loader.py
-│       ├── visualization.py
-│       └── model_utils.py
-│
-├── 📁 tests/                          # Unit tests (optional)
-│   ├── test_preprocessing.py
-│   ├── test_models.py
-│   └── test_utils.py
 │
 ├── requirements.txt                   # Python dependencies
 ├── README.md                          # This file
