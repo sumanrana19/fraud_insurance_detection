@@ -1,0 +1,32 @@
+{
+  "fraud_rate": 0.25333333333333335,
+  "fraud_count": 15200,
+  "legitimate_count": 44800,
+  "avg_fraud_claim": 13261.693156907895,
+  "avg_legit_claim": 13209.4895875279,
+  "claim_amount_ratio": 1.0039519747552763,
+  "fraud_by_month": {
+    "1": 8372,
+    "2": 6628,
+    "3": 200
+  },
+  "fraud_by_hour_group": {
+    "Night": 3633,
+    "Morning": 3692,
+    "Afternoon": 4263,
+    "Evening": 3612
+  },
+  "fraud_by_state": {
+    "OH": 5847,
+    "IN": 4976,
+    "IL": 4377
+  },
+  "state_fraud_rates": {
+    "OH": 0.27585393470466124,
+    "IL": 0.21650096453479745,
+    "IN": 0.26771399365147686
+  },
+  "avg_fraud_vehicle_age": 5.565986842105263,
+  "avg_legit_vehicle_age": 5.477254464285714,
+  "high_value_fraud_rate": 0.26066666666666666
+}
